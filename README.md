@@ -4,6 +4,8 @@ Aplicativo web para lançar o Balanço Patrimonial de três anos, calcular autom
 
 > 🏫 Projeto da disciplina **Gestão do Desempenho Corporativo** – Fatec Ipiranga "Pastor Enéas Tognini" – Big Data para Negócios, 5º semestre (2º semestre de 2026).
 
+🌐 **Site no ar:** https://balanco-patrimonial-ah-e-av.neocities.org
+
 ---
 
 ## 🎓 Sobre o projeto
@@ -152,7 +154,8 @@ https://www.figma.com/community/website-templates?resource_type=files
 
 Este projeto contou com o apoio de IA da [Anthropic](https://www.anthropic.com/):
 
-- **Modelo:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
+- **Modelo:** Claude Sonnet 5.5 (`claude-sonnet-5-5`), usado na atualização da documentação (PDF v2.0) e na criação deste README.
+
 ## 🛠️ Tecnologias
 
 - HTML, CSS (variáveis de tema) e JavaScript puro, em um único arquivo
@@ -160,3 +163,10 @@ Este projeto contou com o apoio de IA da [Anthropic](https://www.anthropic.com/)
 - Fonte Inter (Google Fonts)
 - `localStorage` para persistência
 
+## 🔮 Melhorias futuras
+
+- Indicadores de liquidez e endividamento
+- Gráficos de cascata e de área empilhada
+- Confirmação antes de "Limpar tudo"
+- AH encadeada (ano a ano) e exportação de tabelas e gráficos
+- Migração para React e Zustand
