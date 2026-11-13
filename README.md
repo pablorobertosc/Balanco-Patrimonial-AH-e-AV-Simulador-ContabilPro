@@ -17,10 +17,10 @@ Desenvolvido pelos alunos do 5º Semestre de Big Data para Negócios (Turma 2º 
 | Área | Integrantes |
 |---|---|
 | Back-End | Pablo, William Nunes e Lucas |
-| Front-End | Gabi, Renato e Bruno |
+| Front-End | Gabriela, Renato e Bruno |
 | Gráficos e Dashboards | Gustavo, Renato, Cauan e Rayssa |
 | Análise Vertical e Horizontal | Jefferson, Felipe e William |
-| Documentação | Pedro, Thiago e Vanessa |
+| Documentação | Pedro, Thiago, Daniel e Vanessa |
 
 🎯 **Objetivo:** ajudar a entender a evolução de uma empresa a partir do balanço de três anos, transformando dados contábeis em informação para a tomada de decisão, sem cálculos manuais.
 
